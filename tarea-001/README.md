@@ -40,3 +40,5 @@ _Otro punto para destacar es que la mayor parte del tiempo los textos están ins
 
 ## ¿Es efectiva la transmisión de información?
 _En mi opinión, sí. Las 200 películas y series que se analizaron no se sienten como si fueran tantas, principalmente porque están organizados en los cuadros que mencioné anteriormente. Además, la calidad de los datos es adecuada, ya que, aunque es mucha información, las sinopsis de las películas son breves y la división por categorías es precisa._
+
+# Markdown syntax guide
