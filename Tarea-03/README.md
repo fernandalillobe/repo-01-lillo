@@ -8,3 +8,5 @@ Mientras le pedía ayuda, leí los códigos para entender qué es lo que lograba
 Además, tuve problemas para incluir las imágenes en la página, ya que github no encontraba la carpeta en la que las había guardado. Pero luego entendí que, mediante el código, debía especificarle dónde estaba la carpeta, ya que yo solo estaba escribiendo el nombre de la imagen.
 
 Aunque fue un proceso difícil, al concluir la página me sentí satisfecha con el resultado. 
+
+LINK: https://fernandalillobe.github.io/mi-primera-pagina-web/
